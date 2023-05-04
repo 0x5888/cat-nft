@@ -1,0 +1,46 @@
+{
+  "platform": "CAT PASS NFT",
+  "name": "CAT PASS #3304",
+  "description": "CAT PASS",
+  "external_url": "https://freegpt.one/",
+  "image": "https://chinchilla.city/metadata/images/3304.png",
+  "id": "34e52ac6957c169b622bd423746850972a0f5b62",
+  "edition": 3304,
+  "date": 1683183910871,
+  "attributes": [
+    {
+      "trait_type": "bg",
+      "value": "grassland"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "grale"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "ZongZiash"
+    },
+    {
+      "trait_type": "Skeleton",
+      "value": "goal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    },
+    {
+      "trait_type": "Umbrella",
+      "value": "1"
+    }
+  ],
+  "animation_url": "https://freegpt.one/",
+  "compiler": "CAT Team",
+  "interactive_nft": {
+    "code_uri": "https://freegpt.one/",
+    "version": "1.0"
+  }
+}
