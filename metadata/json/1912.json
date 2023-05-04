@@ -3,22 +3,22 @@
   "name": "CAT PASS #1912",
   "description": "CAT PASS",
   "external_url": "https://freegpt.one/",
-  "image": "https://chinchilla.city/metadata/images/1912.png",
-  "id": "a53ad1b704a46cba3c00717af3ca4737f479d8f8",
+  "image": "https://nft.chinchilla.city/metadata/images//1912.png",
+  "id": "a01f9d91cc05484336c78a46bdddc2ba17261c73",
   "edition": 1912,
-  "date": 1683183881206,
+  "date": 1683185476795,
   "attributes": [
     {
       "trait_type": "bg",
-      "value": "Blue copy"
+      "value": "LightPink"
     },
     {
       "trait_type": "Skin",
-      "value": "grale"
+      "value": "red"
     },
     {
       "trait_type": "Belly",
-      "value": "BlueRice"
+      "value": "ZongZiash"
     },
     {
       "trait_type": "Skeleton",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "1"
+      "value": "4"
     },
     {
       "trait_type": "Umbrella",

@@ -3,18 +3,18 @@
   "name": "CAT PASS #319",
   "description": "CAT PASS",
   "external_url": "https://freegpt.one/",
-  "image": "https://chinchilla.city/metadata/images/319.png",
-  "id": "bda100d333f0e21e2353f2503d4376c831a28908",
+  "image": "https://nft.chinchilla.city/metadata/images//319.png",
+  "id": "aaad9b528d6f0980360234756067ad1e22819e63",
   "edition": 319,
-  "date": 1683183847042,
+  "date": 1683185443208,
   "attributes": [
     {
       "trait_type": "bg",
-      "value": "Blue"
+      "value": "daylight"
     },
     {
       "trait_type": "Skin",
-      "value": "blue"
+      "value": "red"
     },
     {
       "trait_type": "Belly",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "2"
+      "value": "1"
     },
     {
       "trait_type": "Umbrella",

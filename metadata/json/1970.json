@@ -3,14 +3,14 @@
   "name": "CAT PASS #1970",
   "description": "CAT PASS",
   "external_url": "https://freegpt.one/",
-  "image": "https://chinchilla.city/metadata/images/1970.png",
-  "id": "7e60b84437ffcbf94d15364e33dde645c3213d60",
+  "image": "https://nft.chinchilla.city/metadata/images//1970.png",
+  "id": "b091591c50a21d6e7b29b31114385e0dc07f0ad3",
   "edition": 1970,
-  "date": 1683183882469,
+  "date": 1683185478070,
   "attributes": [
     {
       "trait_type": "bg",
-      "value": "Col1 copy"
+      "value": "white0"
     },
     {
       "trait_type": "Skin",
